@@ -5,10 +5,9 @@ plugins {
 }
 
 android {
-    namespace = "kang.min.data"
+    namespace = "kang.min.network"
 }
 
 dependencies {
-    implementation(project(":core:network"))
     implementation(project(":core:model"))
 }

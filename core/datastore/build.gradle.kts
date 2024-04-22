@@ -1,14 +1,13 @@
 plugins {
     id("kangmingu.plugin.library")
     id("kangmingu.plugin.hilt")
-    id("kangmingu.plugin.network")
 }
 
 android {
-    namespace = "kang.min.data"
+    namespace = "kang.min.datastore"
 }
 
 dependencies {
-    implementation(project(":core:network"))
+    implementation(libs.dataStore)
     implementation(project(":core:model"))
 }

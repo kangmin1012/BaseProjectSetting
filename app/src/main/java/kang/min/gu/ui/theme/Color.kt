@@ -1,4 +1,4 @@
-package kang.min.domain.ui.theme
+package kang.min.gu.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

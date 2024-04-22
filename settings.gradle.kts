@@ -25,3 +25,6 @@ rootProject.name = "KangminguProject"
 include(":app")
 include(":core:domain")
 include(":core:data")
+include(":core:network")
+include(":core:model")
+include(":core:datastore")
