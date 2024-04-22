@@ -1,4 +1,4 @@
-package kang.min.gu.ui.theme
+package kang.min.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

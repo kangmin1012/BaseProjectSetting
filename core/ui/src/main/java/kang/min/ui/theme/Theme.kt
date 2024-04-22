@@ -1,4 +1,4 @@
-package kang.min.gu.ui.theme
+package kang.min.ui.theme
 
 import android.app.Activity
 import android.os.Build
