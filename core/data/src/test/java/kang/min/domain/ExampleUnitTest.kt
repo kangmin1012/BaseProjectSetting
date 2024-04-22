@@ -1,4 +1,4 @@
-package kang.min.gu
+package kang.min.domain
 
 import org.junit.Test
 

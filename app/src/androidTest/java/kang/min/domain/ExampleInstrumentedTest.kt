@@ -1,4 +1,4 @@
-package kang.min.data
+package kang.min.domain
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("kang.min.data.test", appContext.packageName)
+        assertEquals("kang.min.gu", appContext.packageName)
     }
 }

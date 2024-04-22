@@ -1,4 +1,4 @@
-package kang.min.gu.di
+package kang.min.domain.di
 
 import dagger.Module
 import dagger.Provides
